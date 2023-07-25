@@ -31,9 +31,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="RabbitMQ" width="40" height="40"/>
-  <img src="https://icons.veryicon.com/png/o/brands/popular-brand-icon-simple-icons/celery-9.png" alt="Celery" width="40" height="40"/>
-    <img src="https://w7.pngwing.com/pngs/490/894/png-transparent-gunicorn-web-server-gateway-interface-software-developer-unicorn-logo-horse-mammal-leaf-thumbnail.svg" alt="Gunicorn" width="40" height="40"/>
-    <img src="https://w7.pngwing.com/pngs/1019/521/png-transparent-nginx-computer-servers-laravel-reverse-proxy-load-balancing-nginx-text-trademark-logo-thumbnail.svg" alt="Nginx" width="40" height="40"/>
 </div>
 
 ---
