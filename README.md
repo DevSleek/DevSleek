@@ -22,15 +22,16 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap5/bootstrap5-plain-wordmark.svg"  title="Bootstrap5" alt="Bootstrap5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/Postman/Postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/celery/celery-original-wordmark.svg" title="Celery" alt="Celery" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gunicorn/gunicorn-original-wordmark.svg" title="Guicorn" alt="Gunicorn" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original-wordmark.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/RabbitMQ/RabbitMQ-original-wordmark.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/Celery/Celery-original-wordmark.svg" title="Celery" alt="Celery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/Gunicorn/Gunicorn-original-wordmark.svg" title="Guicorn" alt="Gunicorn" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/Nginx/Nginx-original-wordmark.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>
 </div>
 
