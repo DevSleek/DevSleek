@@ -34,8 +34,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   </a> 
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original- 
-     wordmark.svg" alt="postgresql" width="40" height="40"/> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style='display: inline'> 
