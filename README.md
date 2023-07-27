@@ -47,8 +47,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
    </a>
 
    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbbitmq-original-wordmark.svg" 
-     alt="docker" width="40" height="40"/> 
+     <img src="https://worldvectorlogo.com/download/rabbitmq.svg" alt="RabbitMQ" width="40" height="40"/> 
    </a>
 
 ---
