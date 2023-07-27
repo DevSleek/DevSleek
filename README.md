@@ -46,10 +46,14 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
      alt="docker" width="40" height="40"/> 
    </a>
 
+   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer" style='display: inline'>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbbitmq-original-wordmark.svg" 
+     alt="docker" width="40" height="40"/> 
+   </a>
+
 ---
 
 ### :fire: My Stats :
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhrobTuraev&show_icons=true&locale=en&layout=compact" alt="Sukhrob" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhrobTuraev&show_icons=true&locale=en&layout=compact" alt="Sukhrob"/>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhrobTuraev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
