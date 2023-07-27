@@ -30,7 +30,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   </a> 
   
   <a href="https://postman.com" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style='display: inline'>
