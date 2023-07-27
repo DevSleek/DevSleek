@@ -19,7 +19,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :hammer_and_wrench: Languages and Tools :
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style='display: inline'>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"   
     width="40" height="40"/> 
   </a> 
