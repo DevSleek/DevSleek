@@ -46,20 +46,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
      alt="docker" width="40" height="40"/> 
    </a>
 
-   <a href="https://www.gunicorn.com/" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gunicorn/gunicorn-original-wordmark.svg" 
-     alt="gunicorn" width="40" height="40"/>
-   </a>
-
-   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original-wordmark.svg" 
-     alt="nginx" width="40" height="40"/> 
-   </a>
-
-   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
-   </a>
-
 ---
 
 ### :fire: My Stats :
