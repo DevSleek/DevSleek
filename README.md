@@ -11,7 +11,7 @@ I am Sukhrob and 19 years old. <br>
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
 - 🔭 I’m currently working on Instagram clone 
-- 🌱 I’m currently learning Django and FastAPI
+- 🌱 I’m currently learning Python Tkinter
 - 🤔 I’m looking for help with Internship
 - 📫 How to reach me: suhrobturaev2004@gmail.com
   
