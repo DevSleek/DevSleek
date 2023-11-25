@@ -50,5 +50,5 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhrobTuraev&show_icons=true&locale=en&layout=compact" alt="Sukhrob"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhrobTuraev&show_icons=true&locale=en&layout=compact" alt="Sukhrob" height=100px Weight=100px/>
 </p>
