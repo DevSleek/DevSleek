@@ -52,6 +52,11 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
      alt="docker" width="80" height="80"/> 
    </a>
 
+   <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer" style='display: inline'>
+     <img src="https://cdn.worldvectorlogo.com/logos/c.svg" 
+     alt="c++" width="80" height="80"/> 
+   </a>
+
 ---
 
 ### My Stats :
