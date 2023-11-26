@@ -55,6 +55,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### My Stats :
-<p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhrobTuraev&theme=github_dark&show_icons=true)](https://github.com/SukhrobTuraev/)
+
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhrobTuraev&show_icons=true&locale=en&layout=compact" alt="Sukhrob" width="100%"/>
-</p>
+</p> /->
