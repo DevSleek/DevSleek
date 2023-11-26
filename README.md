@@ -56,10 +56,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhrobTuraev&theme=github_dark&show_icons=true)](https://github.com/SukhrobTuraev/)
-<div>
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SukhrobTuraev&show_icons=true&theme=vision-friendly-dark" alt="Turaev(Sukhrob)">
-  </p>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=SukhrobTuraev&show_icons=true&theme=vision-friendly-dark" alt="Turaev(Sukhrob)">
 
 
