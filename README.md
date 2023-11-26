@@ -24,7 +24,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   </a> 
 
   <a href="https://docs.djangoproject.com/en/4.2/" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://iconduck.com/icons/27285/django" 
+     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" 
      alt="Django" width="80" height="80"/> 
    </a>
 
