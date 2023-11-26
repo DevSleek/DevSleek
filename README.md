@@ -5,7 +5,7 @@
 
 ---
 
-### man_technologist: About Me :
+### About Me :
 I am Sukhrob and 19 years old. <br>
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
@@ -23,7 +23,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <!--   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sevbo2003&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" /> -->
 </p>
 
-### hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" 
@@ -54,7 +54,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### fire: My Stats :
+### My Stats :
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhrobTuraev&show_icons=true&locale=en&layout=compact" alt="Sukhrob" width="100%"/>
 </p>
