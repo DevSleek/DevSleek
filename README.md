@@ -15,7 +15,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 📫 How to reach me: suhrobturaev2004@gmail.com
   
 ---
-### :Github readme stats :
+### Github readme stats :
 
 <p align = "center">
   <!--   <img  src = "https://github-readme-stats.vercel.app/api?username=sevbo2003&show_icons=true&theme=radical&border_color=#000000"> -->
@@ -56,5 +56,5 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhrobTuraev&show_icons=true&locale=en&layout=compact" alt="Sukhrob" width="600" height="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhrobTuraev&show_icons=true&locale=en&layout=compact" alt="Sukhrob" width="100%"/>
 </p>
