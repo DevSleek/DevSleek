@@ -58,8 +58,3 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhrobTuraev&theme=github_dark&show_icons=true)](https://github.com/SukhrobTuraev/) 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SukhrobTuraev&theme=github_dark&layout=compact)](https://wakatime.com/@SukhrobTuraev)
 
-<!-- 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhrobTuraev&show_icons=true&locale=en&layout=compact" alt="Sukhrob" width="100%"/>
-</p> 
--->
