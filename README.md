@@ -14,7 +14,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
 ---
 ### Profile summary cards :
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SukhrobTuraev&theme=github_dark" alt="info">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSleek&theme=github_dark" alt="info">
 
 ### Languages and Tools :
 
@@ -63,7 +63,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhrobTuraev&theme=github_dark&show_icons=true)](https://github.com/SukhrobTuraev/)
-<img src="https://github-readme-stats.vercel.app/api?username=SukhrobTuraev&show_icons=true&theme=vision-friendly-dark" alt="Turaev(Sukhrob)">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSleek&theme=github_dark&show_icons=true)](https://github.com/DevSleek/)
+<img src="https://github-readme-stats.vercel.app/api?username=DevSleek&show_icons=true&theme=vision-friendly-dark" alt="Sukhrob(DevSleek)">
 
 
