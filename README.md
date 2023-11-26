@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Sukhrob</h1>
 <h3 align="center">I am Backend Engineer Based in Uzbekistan, Tashkent</h3>
 
@@ -24,6 +22,16 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" 
      width="80" height="80"/> 
   </a> 
+
+  <a href="https://docs.djangoproject.com/en/4.2/" target="_blank" rel="noreferrer" style='display: inline'>
+     <img src="https://iconduck.com/icons/27285/django" 
+     alt="Django" width="80" height="80"/> 
+   </a>
+
+   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" style='display: inline'>
+     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" 
+     alt="FastAPI" width="80" height="80"/> 
+   </a>
     
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"   
