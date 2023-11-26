@@ -32,7 +32,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"   
-    width="50%" height="50%"/> 
+    width="20%" height="20%"/> 
   </a> 
   
   <a href="https://postman.com" target="_blank" rel="noreferrer" style='display: inline'>
