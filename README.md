@@ -5,7 +5,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### man_technologist: About Me :
 I am Sukhrob and 19 years old. <br>
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
@@ -23,38 +23,38 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <!--   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sevbo2003&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" /> -->
 </p>
 
-### :hammer_and_wrench: Languages and Tools :
+### hammer_and_wrench: Languages and Tools :
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" 
-     width="60" height="60"/> 
+     width="80" height="80"/> 
   </a> 
     
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"   
-     width="40" height="40"/> 
+    width="80" height="80"/> 
   </a> 
   
   <a href="https://postman.com" target="_blank" rel="noreferrer" style='display: inline'>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/> 
   </a> 
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> 
   </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style='display: inline'> 
-     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
   </a>
     
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style='display: inline'>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
-     alt="docker" width="40" height="40"/> 
+     alt="docker" width="80" height="80"/> 
    </a>
 
 ---
 
-### :fire: My Stats :
+### fire: My Stats :
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SukhrobTuraev&show_icons=true&locale=en&layout=compact" alt="Sukhrob" width="100%"/>
 </p>
