@@ -16,12 +16,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
 ---
 ### Github readme stats :
-
-<p align = "center">
-  <!--   <img  src = "https://github-readme-stats.vercel.app/api?username=sevbo2003&show_icons=true&theme=radical&border_color=#000000"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SukhrobTuraev&show_icons=true&theme=vision-friendly-dark" alt="Turaev(Sukhrob)" width="100%" >
-  <!--   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sevbo2003&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" /> -->
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SukhrobTuraev&theme=github_dark" alt="info">
 
 ### Languages and Tools :
 
@@ -60,6 +55,13 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhrobTuraev&theme=github_dark&show_icons=true)](https://github.com/SukhrobTuraev/) 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SukhrobTuraev&theme=github_dark" alt="info">
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukhrobTuraev&theme=github_dark&show_icons=true)](https://github.com/SukhrobTuraev/)
+  <p align = "center">
+    <!--   <img  src = "https://github-readme-stats.vercel.app/api?username=sevbo2003&show_icons=true&theme=radical&border_color=#000000"> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=SukhrobTuraev&show_icons=true&theme=vision-friendly-dark" alt="Turaev(Sukhrob)">
+    <!--   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sevbo2003&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" /> -->
+  </p>
+</div>
+
 
