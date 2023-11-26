@@ -6,7 +6,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am Sukhrob and 19 years old. <br>
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
@@ -16,6 +16,13 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 📫 How to reach me: suhrobturaev2004@gmail.com
   
 ---
+### :Github readme stats :
+
+<p align = "center">
+  <!--   <img  src = "https://github-readme-stats.vercel.app/api?username=sevbo2003&show_icons=true&theme=radical&border_color=#000000"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SukhrobTuraev&show_icons=true&theme=vision-friendly-dark" alt="Turaev(Sukhrob)" width="100%" >
+  <!--   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sevbo2003&show_icons=true&locale=en&layout=compact&theme=radical&line_height=27" /> -->
+</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 
