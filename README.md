@@ -9,7 +9,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 🔭 I’m currently working on Instagram clone & Imkon insurance
 - 🌱 I’m currently learning Django, DRF & FastAPI
-- 🤔 I’m looking for help with Freelancer
+- 🤔 I’m looking for Freelancer
 - 📫 How to reach me: suhrobturaev2004@gmail.com
   
 ---
