@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sukhrob</h1>
-<h3 align="center">I am Backend Engineer Based in Uzbekistan, Tashkent</h3>
+<h3 align="center">I am Backend Devloper in Uzbekistan, Tashkent</h3>
 
 ---
 
 ### About Me :
-I am Sukhrob and 19 years old. <br>
+I am Sukhrob and 20 years old. <br>
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 
-- 🔭 I’m currently working on Instagram clone & Imkon insurance
-- 🌱 I’m currently learning Django, DRF & FastAPI
-- 🤔 I’m looking for Freelancer
+- 🔭 I’m currently working on self
+- 🌱 I’m currently learning Django, DRF & Telegram Bot
+- 🤔 I’m looking for Work
 - 📫 How to reach me: suhrobturaev2004@gmail.com
   
 ---
