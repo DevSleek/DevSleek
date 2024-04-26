@@ -4,7 +4,6 @@
 ---
 
 ### About Me :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevSleek&label=Profile%20views&color=0e75b6&style=flat" alt="DevSleek" /> </p>
 
 I am Sukhrob and 20 years old. <br>
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
