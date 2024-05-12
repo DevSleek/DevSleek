@@ -54,7 +54,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
    <a href="https://redis.io/" target="_blank" rel="noreferrer" style='display: inline'>
      <img src="https://cycle.io/blog/2023/03/deploy-redis-on-cycle/resources/images/hero.svg" 
-     alt="Redis" width="80" height="80"/> 
+     alt="Redis" width="100" height="100"/> 
    </a>
 
 ---
