@@ -46,19 +46,15 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style='display: inline'>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> 
   </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style='display: inline'> 
-     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
-  </a>
     
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style='display: inline'>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
      alt="docker" width="80" height="80"/> 
    </a>
 
-   <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://cdn.worldvectorlogo.com/logos/c.svg" 
-     alt="c++" width="80" height="80"/> 
+   <a href="https://redis.io/" target="_blank" rel="noreferrer" style='display: inline'>
+     <img src="https://banner2.cleanpng.com/20180907/ska/kisspng-redis-memcached-database-caching-key-value-databas-redis-logo-svg-vector-amp-png-transparent-vect-5b9313b86aa329.3173207815363654964368.jpg" 
+     alt="Redis" width="80" height="80"/> 
    </a>
 
 ---
