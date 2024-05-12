@@ -48,12 +48,12 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   </a>
     
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" 
+     <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" 
      alt="docker" width="80" height="100"/> 
    </a>
 
    <a href="https://redis.io/" target="_blank" rel="noreferrer" style='display: inline'>
-     <img src="https://cycle.io/blog/2023/03/deploy-redis-on-cycle/resources/images/hero.svg" 
+     <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" 
      alt="Redis" width="80" height="120"/> 
    </a>
 
