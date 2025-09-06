@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **self**
 
-- 🤝 I’m looking for **work**
-
-- 💬 Ask me about **python, django and drf**
+- 💬 Ask me about **python, django and drf, fastapi, telegram-bots**
 
 - 📫 How to reach me **suhrobturaev2004@gmail.com**
 
